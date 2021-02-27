@@ -1,5 +1,5 @@
 # AnimeTown
-![Image of Yaktocat](/at_banner01.png)
+![Banner_Image](/at_banner01.png)
 ## What is this
 AnimeTown is a discontinued Garry's Mod SchoolRP Gamemode. It used to be a part of the repix community.
 ## Features
@@ -11,3 +11,7 @@ AnimeTown is a discontinued Garry's Mod SchoolRP Gamemode. It used to be a part 
 * Custom scoreboard, chat, HUD and more
 * Art!
 ## Screenshots
+![Screenshot01](/screenshot01.png)
+![Screenshot02](/screenshot02.png)
+![Screenshot03](/screenshot03.png)
+![Screenshot04](/screenshot04.png)
