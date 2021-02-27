@@ -10,3 +10,4 @@ AnimeTown is a discontinued Garry's Mod SchoolRP Gamemode. It used to be a part 
 * Locations module
 * Custom scoreboard, chat, HUD and more
 * Art!
+## Screenshots
