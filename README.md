@@ -1,7 +1,7 @@
 # AnimeTown
 ![Banner_Image](/at_banner01.png)
 ## What is this
-AnimeTown is a discontinued Garry's Mod SchoolRP Gamemode. It used to be a part of the repix community.
+AnimeTown is a discontinued Garry's Mod SchoolRP Gamemode. It used to be a part of the repix community. Currently configured to work with rp_animeplanet
 ## Features
 * Ingame profiles
 * Expirable premium with lots of features
