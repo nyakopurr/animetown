@@ -1,0 +1,15 @@
+"animetown"
+{
+    "base"        	    "sandbox"
+    "title"       	    "AnimeTown"
+    "version"     	    "release"
+    "menusystem"  	    "1"
+
+    "author_name"   	"nyakopurr"
+    "author_email"  	"neattok@gmail.com"
+    "author_url"    	"https://github.com/nyakopurr"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
